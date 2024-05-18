@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdud\\Desktop\\Python codes\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4845E4DD-22CA-4A77-8240-69A3F5642FD3}|Test.pyproj|C:\\Users\\abdud\\Desktop\\Python codes\\Test\\Test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4845E4DD-22CA-4A77-8240-69A3F5642FD3}|Test.pyproj|solutionrelative:Test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.py",
+              "DocumentMoniker": "C:\\Users\\abdud\\Desktop\\Python codes\\Test\\Test.py",
+              "RelativeDocumentMoniker": "Test.py",
+              "ToolTip": "C:\\Users\\abdud\\Desktop\\Python codes\\Test\\Test.py",
+              "RelativeToolTip": "Test.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T05:05:16.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
